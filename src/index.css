@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+
+.select{
+ 
+  border: 1px solid black;
+  transition: all 0.5s ease;
+  transform: scale(0.5);
+  
+  
+}
+.select:hover{
+  transform: scale(1);
+  border: 1px solid red;
+}
+.light-mode{
+  background-color: white !important;
+  color: black;
+}
+.dark-mode{
+  background-color: #111 !important;
+  color: white;
+}
+/* Path: src\App.css */
+
+.dark-mode .carte{
+  background-color: #112211 !important;
+  color: white;
+
+}
+

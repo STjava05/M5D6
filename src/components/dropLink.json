@@ -1,0 +1,22 @@
+[
+    {
+       "evento":"fantasy",
+       "nome":"fantasy"
+
+},
+{
+    "evento":"horror",
+    "nome":"horror"
+},
+    {
+        "evento": "romance",
+        "nome": "romance"
+    },
+    {"evento":"history",
+    "nome":"history"
+},
+{
+    "evento":"scifi",
+    "nome":"scifi"
+}
+]
